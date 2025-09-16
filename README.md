@@ -1,1 +1,2 @@
 # Real-Time-Object-Detection-for-Autonomous-Vehicles
+This project focuses on building a real-time object detection system to enhance autonomous driving safety. The model is designed to process video streams, accurately detect and classify key objects such as pedestrians, vehicles, traffic signs, and road obstacles, and operate under diverse environmental conditions. The goal is to support safe navigation and decision-making for autonomous vehicles.
